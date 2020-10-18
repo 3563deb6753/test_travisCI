@@ -64,7 +64,6 @@ pygobject==3.27.0
 pylint==1.8.3
 pyparsing==2.4.7
 pytest==4.6.11
-python-dateutil==2.6.1
 python-xapp==1.8.1
 python-xlib==0.20
 pytz==2018.3
