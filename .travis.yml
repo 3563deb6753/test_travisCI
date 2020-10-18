@@ -3,6 +3,9 @@ language: python
 python:
     "3.6-dev"
 
+before_install:
+    "python3 setup.py install"
+
 install:
     pip install -r requirements.txt
 
