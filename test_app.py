@@ -1,6 +1,4 @@
-# Include the directory above where my_app is located
-import sys
-sys.path.append("..")
+
 import my_app
 
 def test_running():
