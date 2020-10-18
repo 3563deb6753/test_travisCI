@@ -63,7 +63,6 @@ Pygments==2.2.0
 pygobject==3.27.0
 pylint==1.8.3
 pyparsing==2.4.7
-pyparted==3.11.2
 pytest==4.6.11
 python-apt==1.6.5+ubuntu0.3
 python-dateutil==2.6.1
